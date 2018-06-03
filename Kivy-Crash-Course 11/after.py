@@ -12,7 +12,7 @@ from kivy.properties import ListProperty
 from kivy.core.window import Window
 
 from random import random
-
+#1111
 Builder.load_string('''
 <Root>:
     ClockRect:
