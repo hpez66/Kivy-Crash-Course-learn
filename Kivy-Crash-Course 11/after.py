@@ -1,3 +1,4 @@
+
 from kivy.base import runTouchApp
 from kivy.lang import Builder
 from kivy.uix.widget import Widget
@@ -108,3 +109,5 @@ class AnimRect(Widget):
 			print('AnimRect=',self.random_xy)
 
 runTouchApp(Root())
+
+需求2 https://www.tapd.cn/31597659/s/1000002 --story=1000052 --user=王志华
