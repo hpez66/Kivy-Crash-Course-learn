@@ -110,4 +110,3 @@ class AnimRect(Widget):
 
 runTouchApp(Root())
 
-需求2 https://www.tapd.cn/31597659/s/1000002 --story=1000052 --user=王志华
